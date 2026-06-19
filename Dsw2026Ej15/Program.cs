@@ -1,5 +1,7 @@
+using Dsw2026Ej15.Api.Middlewares;
 using Dsw2026Ej15.Data.Persistencia;
 using Dsw2026Ej15.Domain.Interfaces;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +23,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseMiddleware<ExceptionMiddleware>();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
