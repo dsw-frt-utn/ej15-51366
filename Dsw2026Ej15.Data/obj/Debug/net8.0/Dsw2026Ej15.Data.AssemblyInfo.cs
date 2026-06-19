@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dsw2026Ej15.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdf94eb4ec8d3ae27920095022bf66c894655f8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6b7b95dd5637a4ad9f69f7072763b1be6160274")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dsw2026Ej15.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dsw2026Ej15.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
