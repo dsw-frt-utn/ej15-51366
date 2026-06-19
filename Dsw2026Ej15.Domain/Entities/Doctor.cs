@@ -11,6 +11,7 @@ namespace Dsw2026Ej15.Domain.Entities
         public string Name { get; set; }
         public string LicenseNumber { get; set; }
         public bool IsActive { get; set; } = true;
+        public Guid SpecialityId { get; set; }
         public Speciality Speciality { get; set; }
     }
 }
