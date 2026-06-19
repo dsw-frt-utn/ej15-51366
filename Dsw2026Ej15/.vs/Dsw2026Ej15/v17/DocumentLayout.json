@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BF5728-E0F1-419F-9A42-C21ADA1D1ECA}|..\\Dsw2026Ej15.Api\\Dsw2026Ej15.Api.csproj|c:\\users\\martu\\source\\repos\\dsw2026\\ej15\\ej15-51366\\dsw2026ej15.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19C4D47-E7CB-4BC9-B178-2FCE93C16993}|..\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj|c:\\users\\martu\\source\\repos\\dsw2026\\ej15\\ej15-51366\\dsw2026ej15.domain\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19C4D47-E7CB-4BC9-B178-2FCE93C16993}|..\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj|c:\\users\\martu\\source\\repos\\dsw2026\\ej15\\ej15-51366\\dsw2026ej15.domain\\ipersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19C4D47-E7CB-4BC9-B178-2FCE93C16993}|..\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj|c:\\users\\martu\\source\\repos\\dsw2026\\ej15\\ej15-51366\\dsw2026ej15.domain\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00574121-66F5-46B0-B25B-AE8BD07BA8E7}|..\\Dsw2026Ej15.Data\\Dsw2026Ej15.Data.csproj|c:\\users\\martu\\source\\repos\\dsw2026\\ej15\\ej15-51366\\dsw2026ej15.data\\persistenceinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BF5728-E0F1-419F-9A42-C21ADA1D1ECA}|..\\Dsw2026Ej15.Api\\Dsw2026Ej15.Api.csproj|c:\\users\\martu\\source\\repos\\dsw2026\\ej15\\ej15-51366\\dsw2026ej15.api\\dsw2026ej15.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00574121-66F5-46B0-B25B-AE8BD07BA8E7}|..\\Dsw2026Ej15.Data\\Dsw2026Ej15.Data.csproj|c:\\users\\martu\\source\\repos\\dsw2026\\ej15\\ej15-51366\\dsw2026ej15.data\\dsw2026ej15.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19C4D47-E7CB-4BC9-B178-2FCE93C16993}|..\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj|c:\\users\\martu\\source\\repos\\dsw2026\\ej15\\ej15-51366\\dsw2026ej15.domain\\dsw2026ej15.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19C4D47-E7CB-4BC9-B178-2FCE93C16993}|..\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj|c:\\users\\martu\\source\\repos\\dsw2026\\ej15\\ej15-51366\\dsw2026ej15.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dsw2026Ej15.Data",
+              "DocumentMoniker": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Data\\Dsw2026Ej15.Data.csproj",
+              "RelativeDocumentMoniker": "..\\Dsw2026Ej15.Data\\Dsw2026Ej15.Data.csproj",
+              "ToolTip": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Data\\Dsw2026Ej15.Data.csproj",
+              "RelativeToolTip": "..\\Dsw2026Ej15.Data\\Dsw2026Ej15.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T03:59:16.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dsw2026Ej15.Api",
+              "DocumentMoniker": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Api\\Dsw2026Ej15.Api.csproj",
+              "RelativeDocumentMoniker": "..\\Dsw2026Ej15.Api\\Dsw2026Ej15.Api.csproj",
+              "ToolTip": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Api\\Dsw2026Ej15.Api.csproj",
+              "RelativeToolTip": "..\\Dsw2026Ej15.Api\\Dsw2026Ej15.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T03:58:44.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Dsw2026Ej15.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Api\\Program.cs",
+              "RelativeToolTip": "..\\Dsw2026Ej15.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T03:56:58.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersistenceInMemory.cs",
+              "DocumentMoniker": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Data\\PersistenceInMemory.cs",
+              "RelativeDocumentMoniker": "..\\Dsw2026Ej15.Data\\PersistenceInMemory.cs",
+              "ToolTip": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Data\\PersistenceInMemory.cs",
+              "RelativeToolTip": "..\\Dsw2026Ej15.Data\\PersistenceInMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T03:55:17.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Domain\\Doctor.cs",
+              "RelativeDocumentMoniker": "..\\Dsw2026Ej15.Domain\\Doctor.cs",
+              "ToolTip": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Domain\\Doctor.cs",
+              "RelativeToolTip": "..\\Dsw2026Ej15.Domain\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T03:50:35.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPersistence.cs",
+              "DocumentMoniker": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Domain\\IPersistence.cs",
+              "RelativeDocumentMoniker": "..\\Dsw2026Ej15.Domain\\IPersistence.cs",
+              "ToolTip": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Domain\\IPersistence.cs",
+              "RelativeToolTip": "..\\Dsw2026Ej15.Domain\\IPersistence.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T03:53:30.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Speciality.cs",
+              "DocumentMoniker": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Domain\\Speciality.cs",
+              "RelativeDocumentMoniker": "..\\Dsw2026Ej15.Domain\\Speciality.cs",
+              "ToolTip": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Domain\\Speciality.cs",
+              "RelativeToolTip": "..\\Dsw2026Ej15.Domain\\Speciality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T03:49:25.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\Dsw2026Ej15.Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Domain\\BaseEntity.cs",
+              "RelativeToolTip": "..\\Dsw2026Ej15.Domain\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T03:48:34.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dsw2026Ej15.Domain",
+              "DocumentMoniker": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj",
+              "ToolTip": "C:\\Users\\martu\\source\\repos\\Dsw2026\\EJ15\\ej15-51366\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj",
+              "RelativeToolTip": "..\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T03:45:49.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
