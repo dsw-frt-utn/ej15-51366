@@ -1,20 +1,20 @@
-﻿using Dsw2026Ej15.Domain.Entities;
-using System;
+﻿
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Dsw2026Ej15.Domain.Entities; 
 
 namespace Dsw2026Ej15.Domain.Interfaces
 {
     public interface IPersistence
     {
-        IEnumerable<Doctor> GetDoctors();
-        Doctor GetDoctorById(Guid id);
-        void AddDoctor(Doctor doctor);
-        void DeactivateDoctor(Guid id);
+       
+        List<T> GetAll<T>() where T : BaseEntity;
 
-        IEnumerable<Speciality> GetSpecialities();
-        Speciality GetSpecialityById(Guid id);
+        T GetById<T>(Guid id) where T : BaseEntity;
+        
+        void Add<T>(T entity) where T : BaseEntity;
+
+        void Update<T>(T entity) where T : BaseEntity;
+
+        void Delete<T>(Guid id) where T : BaseEntity;
     }
 }
